@@ -18,7 +18,7 @@
                 К сожалению книгу не читала, заставили смотреть до прочтения. 
             </p>
                <img src="https://avatars.mds.yandex.net/i?id=de69216f18a518120d9949c380c5b4915b0e0b3a-11387523-images-thumbs&n=13"/>
-            <h3 id="plot"  style=" font-size: 40px "/>
+            <h3 id="plot"  style=" font-size: 40px ">
                Сюжет
             </h3>
             <p style=" font-size: 20px ">
